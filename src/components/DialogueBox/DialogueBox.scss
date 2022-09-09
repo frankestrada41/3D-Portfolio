@@ -1,0 +1,11 @@
+.container {
+  left: 53%;
+  width: 200px;
+  height: 200px;
+  z-index: 1;
+  position: relative;
+  border: 1px solid red;
+  color: white;
+  display: flex;
+  padding: 10px;
+}
